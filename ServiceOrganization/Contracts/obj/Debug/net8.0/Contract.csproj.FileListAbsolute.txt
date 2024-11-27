@@ -1,0 +1,15 @@
+C:\Users\timaf\source\repos\ServiceOrganization\Contracts\bin\Debug\net8.0\Contract.deps.json
+C:\Users\timaf\source\repos\ServiceOrganization\Contracts\bin\Debug\net8.0\Contract.dll
+C:\Users\timaf\source\repos\ServiceOrganization\Contracts\bin\Debug\net8.0\Contract.pdb
+C:\Users\timaf\source\repos\ServiceOrganization\Contracts\bin\Debug\net8.0\Domain.dll
+C:\Users\timaf\source\repos\ServiceOrganization\Contracts\bin\Debug\net8.0\Domain.pdb
+C:\Users\timaf\source\repos\ServiceOrganization\Contracts\obj\Debug\net8.0\Contract.csproj.AssemblyReference.cache
+C:\Users\timaf\source\repos\ServiceOrganization\Contracts\obj\Debug\net8.0\Contract.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\timaf\source\repos\ServiceOrganization\Contracts\obj\Debug\net8.0\Contract.AssemblyInfoInputs.cache
+C:\Users\timaf\source\repos\ServiceOrganization\Contracts\obj\Debug\net8.0\Contract.AssemblyInfo.cs
+C:\Users\timaf\source\repos\ServiceOrganization\Contracts\obj\Debug\net8.0\Contract.csproj.CoreCompileInputs.cache
+C:\Users\timaf\source\repos\ServiceOrganization\Contracts\obj\Debug\net8.0\Contract.csproj.Up2Date
+C:\Users\timaf\source\repos\ServiceOrganization\Contracts\obj\Debug\net8.0\Contract.dll
+C:\Users\timaf\source\repos\ServiceOrganization\Contracts\obj\Debug\net8.0\refint\Contract.dll
+C:\Users\timaf\source\repos\ServiceOrganization\Contracts\obj\Debug\net8.0\Contract.pdb
+C:\Users\timaf\source\repos\ServiceOrganization\Contracts\obj\Debug\net8.0\ref\Contract.dll

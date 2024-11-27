@@ -1,0 +1,13 @@
+F:\MeetUpNow\InnoHackathon-ZhulegoFans-MeetUpNow\EventService\Domain\bin\Debug\net8.0\Domain.deps.json
+F:\MeetUpNow\InnoHackathon-ZhulegoFans-MeetUpNow\EventService\Domain\bin\Debug\net8.0\Domain.dll
+F:\MeetUpNow\InnoHackathon-ZhulegoFans-MeetUpNow\EventService\Domain\bin\Debug\net8.0\Domain.pdb
+F:\MeetUpNow\InnoHackathon-ZhulegoFans-MeetUpNow\EventService\Domain\obj\Debug\net8.0\Domain.csproj.AssemblyReference.cache
+F:\MeetUpNow\InnoHackathon-ZhulegoFans-MeetUpNow\EventService\Domain\obj\Debug\net8.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+F:\MeetUpNow\InnoHackathon-ZhulegoFans-MeetUpNow\EventService\Domain\obj\Debug\net8.0\Domain.AssemblyInfoInputs.cache
+F:\MeetUpNow\InnoHackathon-ZhulegoFans-MeetUpNow\EventService\Domain\obj\Debug\net8.0\Domain.AssemblyInfo.cs
+F:\MeetUpNow\InnoHackathon-ZhulegoFans-MeetUpNow\EventService\Domain\obj\Debug\net8.0\Domain.csproj.CoreCompileInputs.cache
+F:\MeetUpNow\InnoHackathon-ZhulegoFans-MeetUpNow\EventService\Domain\obj\Debug\net8.0\Domain.sourcelink.json
+F:\MeetUpNow\InnoHackathon-ZhulegoFans-MeetUpNow\EventService\Domain\obj\Debug\net8.0\Domain.dll
+F:\MeetUpNow\InnoHackathon-ZhulegoFans-MeetUpNow\EventService\Domain\obj\Debug\net8.0\refint\Domain.dll
+F:\MeetUpNow\InnoHackathon-ZhulegoFans-MeetUpNow\EventService\Domain\obj\Debug\net8.0\Domain.pdb
+F:\MeetUpNow\InnoHackathon-ZhulegoFans-MeetUpNow\EventService\Domain\obj\Debug\net8.0\ref\Domain.dll

@@ -1,0 +1,16 @@
+F:\MeetUpNow\InnoHackathon-ZhulegoFans-MeetUpNow\EventService\Persistence\bin\Debug\net8.0\Persistence.deps.json
+F:\MeetUpNow\InnoHackathon-ZhulegoFans-MeetUpNow\EventService\Persistence\bin\Debug\net8.0\Persistence.dll
+F:\MeetUpNow\InnoHackathon-ZhulegoFans-MeetUpNow\EventService\Persistence\bin\Debug\net8.0\Persistence.pdb
+F:\MeetUpNow\InnoHackathon-ZhulegoFans-MeetUpNow\EventService\Persistence\bin\Debug\net8.0\Domain.dll
+F:\MeetUpNow\InnoHackathon-ZhulegoFans-MeetUpNow\EventService\Persistence\bin\Debug\net8.0\Domain.pdb
+F:\MeetUpNow\InnoHackathon-ZhulegoFans-MeetUpNow\EventService\Persistence\obj\Debug\net8.0\Persistence.csproj.AssemblyReference.cache
+F:\MeetUpNow\InnoHackathon-ZhulegoFans-MeetUpNow\EventService\Persistence\obj\Debug\net8.0\Persistence.GeneratedMSBuildEditorConfig.editorconfig
+F:\MeetUpNow\InnoHackathon-ZhulegoFans-MeetUpNow\EventService\Persistence\obj\Debug\net8.0\Persistence.AssemblyInfoInputs.cache
+F:\MeetUpNow\InnoHackathon-ZhulegoFans-MeetUpNow\EventService\Persistence\obj\Debug\net8.0\Persistence.AssemblyInfo.cs
+F:\MeetUpNow\InnoHackathon-ZhulegoFans-MeetUpNow\EventService\Persistence\obj\Debug\net8.0\Persistence.csproj.CoreCompileInputs.cache
+F:\MeetUpNow\InnoHackathon-ZhulegoFans-MeetUpNow\EventService\Persistence\obj\Debug\net8.0\Persistence.sourcelink.json
+F:\MeetUpNow\InnoHackathon-ZhulegoFans-MeetUpNow\EventService\Persistence\obj\Debug\net8.0\Persiste.61C28332.Up2Date
+F:\MeetUpNow\InnoHackathon-ZhulegoFans-MeetUpNow\EventService\Persistence\obj\Debug\net8.0\Persistence.dll
+F:\MeetUpNow\InnoHackathon-ZhulegoFans-MeetUpNow\EventService\Persistence\obj\Debug\net8.0\refint\Persistence.dll
+F:\MeetUpNow\InnoHackathon-ZhulegoFans-MeetUpNow\EventService\Persistence\obj\Debug\net8.0\Persistence.pdb
+F:\MeetUpNow\InnoHackathon-ZhulegoFans-MeetUpNow\EventService\Persistence\obj\Debug\net8.0\ref\Persistence.dll

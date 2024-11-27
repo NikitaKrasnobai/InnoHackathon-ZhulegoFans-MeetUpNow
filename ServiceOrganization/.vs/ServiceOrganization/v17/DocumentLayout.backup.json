@@ -1,0 +1,204 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\timaf\\source\\repos\\ServiceOrganization\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{952A6106-4417-41F1-BE58-C872EEAFB4A7}|Service\\Service.csproj|c:\\users\\timaf\\source\\repos\\serviceorganization\\service\\documentationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{952A6106-4417-41F1-BE58-C872EEAFB4A7}|Service\\Service.csproj|solutionrelative:service\\documentationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{952A6106-4417-41F1-BE58-C872EEAFB4A7}|Service\\Service.csproj|c:\\users\\timaf\\source\\repos\\serviceorganization\\service\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{952A6106-4417-41F1-BE58-C872EEAFB4A7}|Service\\Service.csproj|solutionrelative:service\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03E97876-8A54-47F4-8302-4FADA60EA75D}|Presentation\\Presentation.csproj|c:\\users\\timaf\\source\\repos\\serviceorganization\\presentation\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03E97876-8A54-47F4-8302-4FADA60EA75D}|Presentation\\Presentation.csproj|solutionrelative:presentation\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03E97876-8A54-47F4-8302-4FADA60EA75D}|Presentation\\Presentation.csproj|c:\\users\\timaf\\source\\repos\\serviceorganization\\presentation\\controllers\\documentationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03E97876-8A54-47F4-8302-4FADA60EA75D}|Presentation\\Presentation.csproj|solutionrelative:presentation\\controllers\\documentationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{952A6106-4417-41F1-BE58-C872EEAFB4A7}|Service\\Service.csproj|c:\\users\\timaf\\source\\repos\\serviceorganization\\service\\organizationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{952A6106-4417-41F1-BE58-C872EEAFB4A7}|Service\\Service.csproj|solutionrelative:service\\organizationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03E97876-8A54-47F4-8302-4FADA60EA75D}|Presentation\\Presentation.csproj|c:\\users\\timaf\\source\\repos\\serviceorganization\\presentation\\controllers\\organizationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03E97876-8A54-47F4-8302-4FADA60EA75D}|Presentation\\Presentation.csproj|solutionrelative:presentation\\controllers\\organizationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3F4E633-B43F-405E-B2D9-EECF6D6D0B8B}|ServiceOrganization\\ServiceOrganization.csproj|c:\\users\\timaf\\source\\repos\\serviceorganization\\serviceorganization\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3F4E633-B43F-405E-B2D9-EECF6D6D0B8B}|ServiceOrganization\\ServiceOrganization.csproj|solutionrelative:serviceorganization\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4535B5CD-A62C-408F-A57A-E75B7AE44A70}|Domain\\Domain.csproj|c:\\users\\timaf\\source\\repos\\serviceorganization\\domain\\entities\\organization.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4535B5CD-A62C-408F-A57A-E75B7AE44A70}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\organization.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4535B5CD-A62C-408F-A57A-E75B7AE44A70}|Domain\\Domain.csproj|c:\\users\\timaf\\source\\repos\\serviceorganization\\domain\\entities\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4535B5CD-A62C-408F-A57A-E75B7AE44A70}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4535B5CD-A62C-408F-A57A-E75B7AE44A70}|Domain\\Domain.csproj|c:\\users\\timaf\\source\\repos\\serviceorganization\\domain\\entities\\documentation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4535B5CD-A62C-408F-A57A-E75B7AE44A70}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\documentation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Documentation.cs",
+              "DocumentMoniker": "C:\\Users\\timaf\\source\\repos\\ServiceOrganization\\Domain\\Entities\\Documentation.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\Documentation.cs",
+              "ToolTip": "C:\\Users\\timaf\\source\\repos\\ServiceOrganization\\Domain\\Entities\\Documentation.cs",
+              "RelativeToolTip": "Domain\\Entities\\Documentation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T15:48:57.772Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\timaf\\source\\repos\\ServiceOrganization\\Domain\\Entities\\Employee.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\Employee.cs",
+              "ToolTip": "C:\\Users\\timaf\\source\\repos\\ServiceOrganization\\Domain\\Entities\\Employee.cs",
+              "RelativeToolTip": "Domain\\Entities\\Employee.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAgwAgAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T15:49:00.643Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Organization.cs",
+              "DocumentMoniker": "C:\\Users\\timaf\\source\\repos\\ServiceOrganization\\Domain\\Entities\\Organization.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\Organization.cs",
+              "ToolTip": "C:\\Users\\timaf\\source\\repos\\ServiceOrganization\\Domain\\Entities\\Organization.cs",
+              "RelativeToolTip": "Domain\\Entities\\Organization.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T15:49:05.134Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{fbcae063-e2c0-4ab1-a516-996ea3dafb72}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DocumentationService.cs",
+              "DocumentMoniker": "C:\\Users\\timaf\\source\\repos\\ServiceOrganization\\Service\\DocumentationService.cs",
+              "RelativeDocumentMoniker": "Service\\DocumentationService.cs",
+              "ToolTip": "C:\\Users\\timaf\\source\\repos\\ServiceOrganization\\Service\\DocumentationService.cs",
+              "RelativeToolTip": "Service\\DocumentationService.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAqwDUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T18:57:46.9Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "OrganizationService.cs",
+              "DocumentMoniker": "C:\\Users\\timaf\\source\\repos\\ServiceOrganization\\Service\\OrganizationService.cs",
+              "RelativeDocumentMoniker": "Service\\OrganizationService.cs",
+              "ToolTip": "C:\\Users\\timaf\\source\\repos\\ServiceOrganization\\Service\\OrganizationService.cs",
+              "RelativeToolTip": "Service\\OrganizationService.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAQwD4AAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T18:56:22.6Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EmployeeService.cs",
+              "DocumentMoniker": "C:\\Users\\timaf\\source\\repos\\ServiceOrganization\\Service\\EmployeeService.cs",
+              "RelativeDocumentMoniker": "Service\\EmployeeService.cs",
+              "ToolTip": "C:\\Users\\timaf\\source\\repos\\ServiceOrganization\\Service\\EmployeeService.cs",
+              "RelativeToolTip": "Service\\EmployeeService.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAQwD8AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T18:51:35.495Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DocumentationController.cs",
+              "DocumentMoniker": "C:\\Users\\timaf\\source\\repos\\ServiceOrganization\\Presentation\\Controllers\\DocumentationController.cs",
+              "RelativeDocumentMoniker": "Presentation\\Controllers\\DocumentationController.cs",
+              "ToolTip": "C:\\Users\\timaf\\source\\repos\\ServiceOrganization\\Presentation\\Controllers\\DocumentationController.cs",
+              "RelativeToolTip": "Presentation\\Controllers\\DocumentationController.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAAAiwEoAAABdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T18:39:17.661Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "OrganizationController.cs",
+              "DocumentMoniker": "C:\\Users\\timaf\\source\\repos\\ServiceOrganization\\Presentation\\Controllers\\OrganizationController.cs",
+              "RelativeDocumentMoniker": "Presentation\\Controllers\\OrganizationController.cs",
+              "ToolTip": "C:\\Users\\timaf\\source\\repos\\ServiceOrganization\\Presentation\\Controllers\\OrganizationController.cs",
+              "RelativeToolTip": "Presentation\\Controllers\\OrganizationController.cs",
+              "ViewState": "AgIAADsAAAAAAAAAAAAqwEsAAABeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T18:17:26.252Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "C:\\Users\\timaf\\source\\repos\\ServiceOrganization\\Presentation\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "Presentation\\Controllers\\EmployeeController.cs",
+              "ToolTip": "C:\\Users\\timaf\\source\\repos\\ServiceOrganization\\Presentation\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "Presentation\\Controllers\\EmployeeController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAADwv1EAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T18:17:21.731Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\timaf\\source\\repos\\ServiceOrganization\\ServiceOrganization\\Program.cs",
+              "RelativeDocumentMoniker": "ServiceOrganization\\Program.cs",
+              "ToolTip": "C:\\Users\\timaf\\source\\repos\\ServiceOrganization\\ServiceOrganization\\Program.cs",
+              "RelativeToolTip": "ServiceOrganization\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAYwBcAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T00:00:14.953Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
