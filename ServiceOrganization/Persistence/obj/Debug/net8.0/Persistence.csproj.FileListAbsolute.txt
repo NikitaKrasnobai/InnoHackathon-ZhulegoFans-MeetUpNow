@@ -1,0 +1,15 @@
+C:\Users\timaf\source\repos\ServiceOrganization\Persistence\obj\Debug\net8.0\Persistence.csproj.AssemblyReference.cache
+C:\Users\timaf\source\repos\ServiceOrganization\Persistence\obj\Debug\net8.0\Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\timaf\source\repos\ServiceOrganization\Persistence\obj\Debug\net8.0\Persistence.AssemblyInfoInputs.cache
+C:\Users\timaf\source\repos\ServiceOrganization\Persistence\obj\Debug\net8.0\Persistence.AssemblyInfo.cs
+C:\Users\timaf\source\repos\ServiceOrganization\Persistence\obj\Debug\net8.0\Persistence.csproj.CoreCompileInputs.cache
+C:\Users\timaf\source\repos\ServiceOrganization\Persistence\bin\Debug\net8.0\Persistence.deps.json
+C:\Users\timaf\source\repos\ServiceOrganization\Persistence\bin\Debug\net8.0\Persistence.dll
+C:\Users\timaf\source\repos\ServiceOrganization\Persistence\bin\Debug\net8.0\Persistence.pdb
+C:\Users\timaf\source\repos\ServiceOrganization\Persistence\bin\Debug\net8.0\Domain.dll
+C:\Users\timaf\source\repos\ServiceOrganization\Persistence\bin\Debug\net8.0\Domain.pdb
+C:\Users\timaf\source\repos\ServiceOrganization\Persistence\obj\Debug\net8.0\Persiste.61C28332.Up2Date
+C:\Users\timaf\source\repos\ServiceOrganization\Persistence\obj\Debug\net8.0\Persistence.dll
+C:\Users\timaf\source\repos\ServiceOrganization\Persistence\obj\Debug\net8.0\refint\Persistence.dll
+C:\Users\timaf\source\repos\ServiceOrganization\Persistence\obj\Debug\net8.0\Persistence.pdb
+C:\Users\timaf\source\repos\ServiceOrganization\Persistence\obj\Debug\net8.0\ref\Persistence.dll
