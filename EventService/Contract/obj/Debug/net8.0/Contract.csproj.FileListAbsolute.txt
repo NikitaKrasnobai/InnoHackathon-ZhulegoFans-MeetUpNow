@@ -1,0 +1,16 @@
+F:\MeetUpNow\InnoHackathon-ZhulegoFans-MeetUpNow\EventService\Contract\bin\Debug\net8.0\Contract.deps.json
+F:\MeetUpNow\InnoHackathon-ZhulegoFans-MeetUpNow\EventService\Contract\bin\Debug\net8.0\Contract.dll
+F:\MeetUpNow\InnoHackathon-ZhulegoFans-MeetUpNow\EventService\Contract\bin\Debug\net8.0\Contract.pdb
+F:\MeetUpNow\InnoHackathon-ZhulegoFans-MeetUpNow\EventService\Contract\bin\Debug\net8.0\Domain.dll
+F:\MeetUpNow\InnoHackathon-ZhulegoFans-MeetUpNow\EventService\Contract\bin\Debug\net8.0\Domain.pdb
+F:\MeetUpNow\InnoHackathon-ZhulegoFans-MeetUpNow\EventService\Contract\obj\Debug\net8.0\Contract.csproj.AssemblyReference.cache
+F:\MeetUpNow\InnoHackathon-ZhulegoFans-MeetUpNow\EventService\Contract\obj\Debug\net8.0\Contract.GeneratedMSBuildEditorConfig.editorconfig
+F:\MeetUpNow\InnoHackathon-ZhulegoFans-MeetUpNow\EventService\Contract\obj\Debug\net8.0\Contract.AssemblyInfoInputs.cache
+F:\MeetUpNow\InnoHackathon-ZhulegoFans-MeetUpNow\EventService\Contract\obj\Debug\net8.0\Contract.AssemblyInfo.cs
+F:\MeetUpNow\InnoHackathon-ZhulegoFans-MeetUpNow\EventService\Contract\obj\Debug\net8.0\Contract.csproj.CoreCompileInputs.cache
+F:\MeetUpNow\InnoHackathon-ZhulegoFans-MeetUpNow\EventService\Contract\obj\Debug\net8.0\Contract.sourcelink.json
+F:\MeetUpNow\InnoHackathon-ZhulegoFans-MeetUpNow\EventService\Contract\obj\Debug\net8.0\Contract.csproj.Up2Date
+F:\MeetUpNow\InnoHackathon-ZhulegoFans-MeetUpNow\EventService\Contract\obj\Debug\net8.0\Contract.dll
+F:\MeetUpNow\InnoHackathon-ZhulegoFans-MeetUpNow\EventService\Contract\obj\Debug\net8.0\refint\Contract.dll
+F:\MeetUpNow\InnoHackathon-ZhulegoFans-MeetUpNow\EventService\Contract\obj\Debug\net8.0\Contract.pdb
+F:\MeetUpNow\InnoHackathon-ZhulegoFans-MeetUpNow\EventService\Contract\obj\Debug\net8.0\ref\Contract.dll
