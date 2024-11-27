@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "XxIySbA4Us/j9MPMhfrw0HEMCUqCXnH5APcvV9sVbx4=",
+  "Source": "ServiceOrganization",
+  "BasePath": "_content/ServiceOrganization",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

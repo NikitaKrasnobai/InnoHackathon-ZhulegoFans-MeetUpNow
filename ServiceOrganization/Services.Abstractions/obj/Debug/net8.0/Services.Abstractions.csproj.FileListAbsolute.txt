@@ -1,0 +1,17 @@
+C:\Users\timaf\source\repos\ServiceOrganization\Services.Abstractions\bin\Debug\net8.0\Services.Abstractions.deps.json
+C:\Users\timaf\source\repos\ServiceOrganization\Services.Abstractions\bin\Debug\net8.0\Services.Abstractions.dll
+C:\Users\timaf\source\repos\ServiceOrganization\Services.Abstractions\bin\Debug\net8.0\Services.Abstractions.pdb
+C:\Users\timaf\source\repos\ServiceOrganization\Services.Abstractions\bin\Debug\net8.0\Contract.dll
+C:\Users\timaf\source\repos\ServiceOrganization\Services.Abstractions\bin\Debug\net8.0\Domain.dll
+C:\Users\timaf\source\repos\ServiceOrganization\Services.Abstractions\bin\Debug\net8.0\Contract.pdb
+C:\Users\timaf\source\repos\ServiceOrganization\Services.Abstractions\bin\Debug\net8.0\Domain.pdb
+C:\Users\timaf\source\repos\ServiceOrganization\Services.Abstractions\obj\Debug\net8.0\Services.Abstractions.csproj.AssemblyReference.cache
+C:\Users\timaf\source\repos\ServiceOrganization\Services.Abstractions\obj\Debug\net8.0\Services.Abstractions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\timaf\source\repos\ServiceOrganization\Services.Abstractions\obj\Debug\net8.0\Services.Abstractions.AssemblyInfoInputs.cache
+C:\Users\timaf\source\repos\ServiceOrganization\Services.Abstractions\obj\Debug\net8.0\Services.Abstractions.AssemblyInfo.cs
+C:\Users\timaf\source\repos\ServiceOrganization\Services.Abstractions\obj\Debug\net8.0\Services.Abstractions.csproj.CoreCompileInputs.cache
+C:\Users\timaf\source\repos\ServiceOrganization\Services.Abstractions\obj\Debug\net8.0\Services.E74F1EB6.Up2Date
+C:\Users\timaf\source\repos\ServiceOrganization\Services.Abstractions\obj\Debug\net8.0\Services.Abstractions.dll
+C:\Users\timaf\source\repos\ServiceOrganization\Services.Abstractions\obj\Debug\net8.0\refint\Services.Abstractions.dll
+C:\Users\timaf\source\repos\ServiceOrganization\Services.Abstractions\obj\Debug\net8.0\Services.Abstractions.pdb
+C:\Users\timaf\source\repos\ServiceOrganization\Services.Abstractions\obj\Debug\net8.0\ref\Services.Abstractions.dll
