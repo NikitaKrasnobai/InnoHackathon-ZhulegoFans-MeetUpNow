@@ -1,0 +1,45 @@
+version: '3.9'
+services:
+  event-service:
+    build:
+      context: /EventService
+      dockerfile: Dockerfile
+    container_name: event-service
+    ports:
+      - "5264:8080"
+    environment:
+      - ASPNETCORE_ENVIRONMENT=Development
+      - ConnectionStrings__DefaultConnection=Server=mysql;Port=3306;Database=meetupnow;User Id=root;Password=admin;
+    depends_on:
+      - mysql
+    restart: always
+
+  organization-service:
+    build:
+      context: /ServiceOrganization
+      dockerfile: Dockerfile
+    container_name: organization-service
+    ports:
+      - "5154:8080"
+    environment:
+      - ASPNETCORE_ENVIRONMENT=Development
+      - ConnectionStrings__DefaultConnection=Server=mysql;Port=3306;Database=meetupnow;User Id=root;Password=admin;
+    depends_on:
+      - mysql
+    restart: always
+
+
+  mysql:
+    image: mysql:8.0
+    container_name: mysql
+    restart: always
+    environment:
+      MYSQL_ROOT_PASSWORD: admin
+      MYSQL_DATABASE: meetupnow
+    ports:
+      - "3306:3306"
+    volumes:
+      - db-data:/var/lib/mysql
+
+volumes:
+  db-data:
