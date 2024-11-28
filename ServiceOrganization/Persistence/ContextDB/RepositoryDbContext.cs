@@ -7,12 +7,10 @@ namespace Persistence.ContextDB
     public class RepositoryDbContext : DbContext
     {
         public required DbSet<Employee> Employees { get; set; }
-
         public required DbSet<Organization> Organizations { get; set; }
-
         public required DbSet<Documentation> Documentations { get; set; }
 
-        public RepositoryDbContext(DbContextOptions<RepositoryDbContext> options)
+        public RepositoryDbContext(DbContextOptions options)
         : base(options)
         {
             Database.EnsureCreated();
