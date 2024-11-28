@@ -12,7 +12,6 @@ public class RepositoryDbContext : DbContext
     public RepositoryDbContext(DbContextOptions options)
         : base(options)
     {
-        Database.EnsureCreated();
     }
 
     protected override void OnModelCreating(ModelBuilder modelBuilder)
@@ -21,5 +20,13 @@ public class RepositoryDbContext : DbContext
         modelBuilder.ApplyConfigurationsFromAssembly(typeof(PlaceConfiguration).Assembly);
         modelBuilder.ApplyConfigurationsFromAssembly(typeof(PurposeConfiguration).Assembly);
         modelBuilder.ApplyConfigurationsFromAssembly(typeof(EventsTableConfiguration).Assembly);
+
+        ApplySqlFile("EventService.sql");
+    }
+
+    private void ApplySqlFile(string path)
+    {
+        var sql = File.ReadAllText(path);
+        Database.ExecuteSqlRaw(sql);
     }
 }
