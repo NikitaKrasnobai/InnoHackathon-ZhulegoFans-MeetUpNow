@@ -20,8 +20,12 @@ public class RepositoryDbContext : DbContext
         modelBuilder.ApplyConfigurationsFromAssembly(typeof(PlaceConfiguration).Assembly);
         modelBuilder.ApplyConfigurationsFromAssembly(typeof(PurposeConfiguration).Assembly);
         modelBuilder.ApplyConfigurationsFromAssembly(typeof(EventsTableConfiguration).Assembly);
+    }
 
-        ApplySqlFile("EventService.sql");
+    public void InitializeDatabase()
+    {
+        string sqlFilePath = Path.Combine(Directory.GetCurrentDirectory(), "EventService.sql");
+        ApplySqlFile(sqlFilePath);
     }
 
     private void ApplySqlFile(string path)

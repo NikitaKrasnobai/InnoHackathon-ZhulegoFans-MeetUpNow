@@ -2,9 +2,7 @@
 using Microsoft.EntityFrameworkCore;
 using Persistence.Configurations;
 
-namespace Persistence.ContextDB
-{
-    public class RepositoryDbContext : DbContext
+public class RepositoryDbContext : DbContext
     {
         public required DbSet<Employee> Employees { get; set; }
         public required DbSet<Organization> Organizations { get; set; }
@@ -13,7 +11,6 @@ namespace Persistence.ContextDB
         public RepositoryDbContext(DbContextOptions options)
         : base(options)
         {
-            Database.EnsureCreated();
         }
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
@@ -21,6 +18,17 @@ namespace Persistence.ContextDB
             modelBuilder.ApplyConfigurationsFromAssembly(typeof(DocumentationConfiguration).Assembly);
             modelBuilder.ApplyConfigurationsFromAssembly(typeof(EmployeeConfiguration).Assembly);
             modelBuilder.ApplyConfigurationsFromAssembly(typeof(OrganizationConfiguration).Assembly);
+
         }
+        public void InitializeDatabase()
+            {
+                string sqlFilePath = Path.Combine(Directory.GetCurrentDirectory(), "OrganizationService.sql");
+                 ApplySqlFile(sqlFilePath);
+            }
+
+        private void ApplySqlFile(string path)
+            {
+                var sql = File.ReadAllText(path);
+                Database.ExecuteSqlRaw(sql);
+            }
     }
-}

@@ -1,7 +1,6 @@
 using Domain.Repositories;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.EntityFrameworkCore;
-using Persistence.ContextDB;
 using Persistence.Repositories;
 using Service;
 using Services.Abstractions;
@@ -37,9 +36,4 @@ app.UseAuthorization();
 
 app.MapControllers();
 
-using (var scope = app.Services.CreateScope())
-{
-    var dbContext = scope.ServiceProvider.GetRequiredService<RepositoryDbContext>();
-    dbContext.Database.Migrate();
-}
 app.Run();

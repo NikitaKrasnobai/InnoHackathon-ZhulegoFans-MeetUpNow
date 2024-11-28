@@ -1,7 +1,6 @@
 ﻿using Domain.Entities;
 using Domain.Repositories;
 using Microsoft.EntityFrameworkCore;
-using Persistence.ContextDB;
 
 namespace Persistence.Repositories;
 
