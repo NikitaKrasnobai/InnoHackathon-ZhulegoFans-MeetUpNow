@@ -1,7 +1,6 @@
 using Domain.Repositories;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.EntityFrameworkCore;
-using Persistence.ContextDB;
 using Persistence.Repositories;
 using Service;
 using Services.Abstractions;
