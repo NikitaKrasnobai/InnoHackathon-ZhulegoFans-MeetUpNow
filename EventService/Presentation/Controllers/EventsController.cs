@@ -4,7 +4,7 @@ using Services.Abstractions;
 namespace Presentation.Controllers;
 
 [ApiController]
-[Route("api/Events")]
+[Route("/api/Events")]
 public class EventsController : ControllerBase
 {
     private readonly IEventService _eventService;

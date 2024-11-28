@@ -37,4 +37,9 @@ app.UseAuthorization();
 
 app.MapControllers();
 
+using (var scope = app.Services.CreateScope())
+{
+    var dbContext = scope.ServiceProvider.GetRequiredService<RepositoryDbContext>();
+    dbContext.Database.Migrate();
+}
 app.Run();

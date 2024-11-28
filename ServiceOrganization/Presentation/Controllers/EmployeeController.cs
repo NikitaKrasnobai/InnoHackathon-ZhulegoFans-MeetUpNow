@@ -9,7 +9,7 @@ using Domain.Entities;
 namespace Presentation.Controllers;
 
 [ApiController]
-[Route("api/Employees")]
+[Route("/api/Employees")]
 public class EmployeeController : ControllerBase
 {
     private readonly IEmployeeService _employeeService;
