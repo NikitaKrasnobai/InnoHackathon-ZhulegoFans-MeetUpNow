@@ -3,6 +3,7 @@ FROM mcr.microsoft.com/dotnet/sdk:8.0 AS build
 WORKDIR /app
 
 # Копируем файл решения и все проекты
+COPY EventService/EventService.sql ./
 COPY . ./
 
 # Восстанавливаем зависимости

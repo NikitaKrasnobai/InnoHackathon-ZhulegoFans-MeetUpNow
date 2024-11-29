@@ -1,42 +1,37 @@
-IF NOT EXISTS (SELECT * FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_NAME = 'Event')
-BEGIN
-    CREATE TABLE Event (
-        Id UNIQUEIDENTIFIER PRIMARY KEY DEFAULT NEWID(),
-        Name NVARCHAR(255) NOT NULL,
-        Description NVARCHAR(MAX) NOT NULL,
-        Time NVARCHAR(50) NULL,
-        EmailAddress NVARCHAR(255) NOT NULL 
-    );
-END
+-- Создание таблицы Event, если она не существует
+CREATE TABLE IF NOT EXISTS Events (
+                                     Id CHAR(36) PRIMARY KEY DEFAULT (UUID()),
+                                     Name VARCHAR(255) NOT NULL,
+                                     Description TEXT NOT NULL,
+                                     Time VARCHAR(50) NULL,
+                                     EmailAddress VARCHAR(255) NOT NULL
+);
 
-IF NOT EXISTS (SELECT * FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_NAME = 'Purpose')
-BEGIN
-    CREATE TABLE Purpose (
-        Id UNIQUEIDENTIFIER PRIMARY KEY DEFAULT NEWID(),
-        Name NVARCHAR(255) NOT NULL,
-        Description NVARCHAR(MAX) NOT NULL,
-        StartDate DATETIME NOT NULL,
-        EndDate DATETIME NOT NULL,
-        EventId UNIQUEIDENTIFIER NOT NULL
-    );
-END
+-- Создание таблицы Purpose, если она не существует
+CREATE TABLE IF NOT EXISTS Purposes (
+                                       Id CHAR(36) PRIMARY KEY DEFAULT (UUID()),
+                                       Name VARCHAR(255) NOT NULL,
+                                       Description TEXT NOT NULL,
+                                       StartDate DATETIME NOT NULL,
+                                       EndDate DATETIME NOT NULL,
+                                       EventId CHAR(36) NOT NULL,
+                                       FOREIGN KEY (EventId) REFERENCES Event(Id) ON DELETE CASCADE
+);
 
-IF NOT EXISTS (SELECT * FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_NAME = 'Place')
-BEGIN
-    CREATE TABLE Place (
-        Id UNIQUEIDENTIFIER PRIMARY KEY DEFAULT NEWID(),
-        Name NVARCHAR(255) NOT NULL,
-        Address NVARCHAR(MAX) NOT NULL,
-        EventsTableId UNIQUEIDENTIFIER NOT NULL
-    );
-END
+-- Создание таблицы Place, если она не существует
+CREATE TABLE IF NOT EXISTS Places (
+                                     Id CHAR(36) PRIMARY KEY DEFAULT (UUID()),
+                                     Name VARCHAR(255) NOT NULL,
+                                     Address TEXT NOT NULL,
+                                     EventsTableId CHAR(36) NOT NULL
+);
 
-IF NOT EXISTS (SELECT * FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_NAME = 'EventsTable')
-BEGIN
-    CREATE TABLE EventsTable (
-        Id UNIQUEIDENTIFIER PRIMARY KEY DEFAULT NEWID(),
-        EventId UNIQUEIDENTIFIER NOT NULL,
-        PlaceId UNIQUEIDENTIFIER NOT NULL,
-        CountOfVisits INT NOT NULL
-    );
-END
+-- Создание таблицы EventsTable, если она не существует
+CREATE TABLE IF NOT EXISTS EventsTables (
+                                           Id CHAR(36) PRIMARY KEY DEFAULT (UUID()),
+                                           EventId CHAR(36) NOT NULL,
+                                           PlaceId CHAR(36) NOT NULL,
+                                           CountOfVisits INT NOT NULL,
+                                           FOREIGN KEY (EventId) REFERENCES Event(Id) ON DELETE CASCADE,
+                                           FOREIGN KEY (PlaceId) REFERENCES Place(Id) ON DELETE CASCADE
+);

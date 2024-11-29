@@ -11,6 +11,7 @@ public class RepositoryDbContext : DbContext
         public RepositoryDbContext(DbContextOptions options)
         : base(options)
         {
+        InitializeDatabase();
         }
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)

@@ -12,6 +12,7 @@ public class RepositoryDbContext : DbContext
     public RepositoryDbContext(DbContextOptions options)
         : base(options)
     {
+    InitializeDatabase();
     }
 
     protected override void OnModelCreating(ModelBuilder modelBuilder)
@@ -24,7 +25,6 @@ public class RepositoryDbContext : DbContext
 
     public void InitializeDatabase()
     {
-        Database.EnsureCreated();
         string sqlFilePath = Path.Combine(Directory.GetCurrentDirectory(), "EventService.sql");
         ApplySqlFile(sqlFilePath);
     }
