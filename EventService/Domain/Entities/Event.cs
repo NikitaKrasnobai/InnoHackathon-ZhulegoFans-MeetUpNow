@@ -10,18 +10,20 @@ public class Event
 
     public string? Time { get; set; }
 
+    public string EmailAddress { get; set; } = string.Empty;
+
     public ICollection<Purpose>? Purposes { get; set; }
 
     public ICollection<EventsTable>? EventsTables { get; set; }
 
     public Event() { }
 
-    public Event(string name, string description, string? time)
+    public Event(string name, string description, string? time, string emailAddress)
     {
         Name = name;
         Description = description;
         Time = time;
-
+        EmailAddress = emailAddress;
     }
 }
 

@@ -4,7 +4,8 @@ BEGIN
         Id UNIQUEIDENTIFIER PRIMARY KEY DEFAULT NEWID(),
         Name NVARCHAR(255) NOT NULL,
         Description NVARCHAR(MAX) NOT NULL,
-        Time NVARCHAR(50) NULL
+        Time NVARCHAR(50) NULL,
+        EmailAddress NVARCHAR(255) NOT NULL 
     );
 END
 

@@ -834,6 +834,10 @@
           "time": {
             "type": "string",
             "nullable": true
+          },
+          "emailAddress": {
+            "type": "string",
+            "nullable": true
           }
         },
         "additionalProperties": false

@@ -62,6 +62,7 @@ public class EventService : IEventService
         result.Description = eventDTO.Description;
         result.Time = eventDTO.Time;
         result.Name = eventDTO.Name;   
+        result.EmailAddress = eventDTO.EmailAddress;
 
         return EventMapper.ToDto(await _eventRepository.UpdateEventAsync(result));
     }

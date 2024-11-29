@@ -10,4 +10,5 @@ public class EventDTO
 
     public string? Time { get; set; }
 
+    public string EmailAddress { get; set; } = string.Empty;
 }

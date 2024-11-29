@@ -23,6 +23,10 @@ namespace Persistence.Configurations
             builder.Property(e => e.Time)
                 .IsRequired();
 
+            builder.Property(e => e.EmailAddress)
+                .IsRequired()
+                .HasMaxLength(100);
+
             builder.HasMany(e => e.Purposes)
                 .WithOne()
                 .HasForeignKey(p => p.EventId);

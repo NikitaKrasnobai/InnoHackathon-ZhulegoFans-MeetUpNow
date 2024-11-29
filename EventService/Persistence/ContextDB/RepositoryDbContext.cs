@@ -24,6 +24,7 @@ public class RepositoryDbContext : DbContext
 
     public void InitializeDatabase()
     {
+        Database.EnsureCreated();
         string sqlFilePath = Path.Combine(Directory.GetCurrentDirectory(), "EventService.sql");
         ApplySqlFile(sqlFilePath);
     }

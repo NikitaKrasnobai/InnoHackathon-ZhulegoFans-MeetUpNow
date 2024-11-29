@@ -14,7 +14,8 @@ namespace Contract.Mapper
                 Id = eventEntity.Id,
                 Name = eventEntity.Name,
                 Description = eventEntity.Description,
-                Time = eventEntity.Time
+                Time = eventEntity.Time,
+                EmailAddress = eventEntity.EmailAddress
             };
         }
 
@@ -26,7 +27,8 @@ namespace Contract.Mapper
             {
                 Name = eventDto.Name,
                 Description = eventDto.Description,
-                Time = eventDto.Time
+                Time = eventDto.Time,
+                EmailAddress = eventDto.EmailAddress
             };
         }
     }

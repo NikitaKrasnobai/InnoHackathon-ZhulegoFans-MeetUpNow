@@ -3,12 +3,40 @@
   "WorkspaceRootPath": "F:\\MeetUpNow\\InnoHackathon-ZhulegoFans-MeetUpNow\\EventService\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{2BE6E86A-A77F-4825-A4B5-EA6B169D4889}|EventService\\EventService.csproj|f:\\meetupnow\\innohackathon-zhulegofans-meetupnow\\eventservice\\eventservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BE6E86A-A77F-4825-A4B5-EA6B169D4889}|EventService\\EventService.csproj|solutionrelative:eventservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{0095CB22-8A2F-49DF-AFAB-308A63C53761}|Persistence\\Persistence.csproj|f:\\meetupnow\\innohackathon-zhulegofans-meetupnow\\eventservice\\persistence\\contextdb\\repositorydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0095CB22-8A2F-49DF-AFAB-308A63C53761}|Persistence\\Persistence.csproj|solutionrelative:persistence\\contextdb\\repositorydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{2BE6E86A-A77F-4825-A4B5-EA6B169D4889}|EventService\\EventService.csproj|f:\\meetupnow\\innohackathon-zhulegofans-meetupnow\\eventservice\\eventservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2BE6E86A-A77F-4825-A4B5-EA6B169D4889}|EventService\\EventService.csproj|solutionrelative:eventservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{2BE6E86A-A77F-4825-A4B5-EA6B169D4889}|EventService\\EventService.csproj|f:\\meetupnow\\innohackathon-zhulegofans-meetupnow\\eventservice\\eventservice\\eventservice.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
       "RelativeMoniker": "D:0:0:{2BE6E86A-A77F-4825-A4B5-EA6B169D4889}|EventService\\EventService.csproj|solutionrelative:eventservice\\eventservice.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0095CB22-8A2F-49DF-AFAB-308A63C53761}|Persistence\\Persistence.csproj|f:\\meetupnow\\innohackathon-zhulegofans-meetupnow\\eventservice\\persistence\\configurations\\eventconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0095CB22-8A2F-49DF-AFAB-308A63C53761}|Persistence\\Persistence.csproj|solutionrelative:persistence\\configurations\\eventconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFAB3802-28C9-425F-9F73-509518C72A25}|Service\\Service.csproj|f:\\meetupnow\\innohackathon-zhulegofans-meetupnow\\eventservice\\service\\eventservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFAB3802-28C9-425F-9F73-509518C72A25}|Service\\Service.csproj|solutionrelative:service\\eventservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{353C9FF9-8E54-47EB-805A-53105ABF4019}|Contract\\Contract.csproj|f:\\meetupnow\\innohackathon-zhulegofans-meetupnow\\eventservice\\contract\\mapper\\eventmapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{353C9FF9-8E54-47EB-805A-53105ABF4019}|Contract\\Contract.csproj|solutionrelative:contract\\mapper\\eventmapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{353C9FF9-8E54-47EB-805A-53105ABF4019}|Contract\\Contract.csproj|f:\\meetupnow\\innohackathon-zhulegofans-meetupnow\\eventservice\\contract\\eventdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{353C9FF9-8E54-47EB-805A-53105ABF4019}|Contract\\Contract.csproj|solutionrelative:contract\\eventdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B57F396B-93C5-4F7D-9AF8-A94838CDDDDE}|Domain\\Domain.csproj|f:\\meetupnow\\innohackathon-zhulegofans-meetupnow\\eventservice\\domain\\entities\\event.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B57F396B-93C5-4F7D-9AF8-A94838CDDDDE}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\event.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2BE6E86A-A77F-4825-A4B5-EA6B169D4889}|EventService\\EventService.csproj|f:\\meetupnow\\innohackathon-zhulegofans-meetupnow\\eventservice\\eventservice\\eventservice.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame",
@@ -22,7 +50,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 12,
           "Children": [
             {
               "$type": "Bookmark",
@@ -50,20 +78,111 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "F:\\MeetUpNow\\InnoHackathon-ZhulegoFans-MeetUpNow\\EventService\\EventService\\appsettings.json",
+              "RelativeDocumentMoniker": "EventService\\appsettings.json",
+              "ToolTip": "F:\\MeetUpNow\\InnoHackathon-ZhulegoFans-MeetUpNow\\EventService\\EventService\\appsettings.json",
+              "RelativeToolTip": "EventService\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-29T00:14:40.97Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EventConfiguration.cs",
+              "DocumentMoniker": "F:\\MeetUpNow\\InnoHackathon-ZhulegoFans-MeetUpNow\\EventService\\Persistence\\Configurations\\EventConfiguration.cs",
+              "RelativeDocumentMoniker": "Persistence\\Configurations\\EventConfiguration.cs",
+              "ToolTip": "F:\\MeetUpNow\\InnoHackathon-ZhulegoFans-MeetUpNow\\EventService\\Persistence\\Configurations\\EventConfiguration.cs",
+              "RelativeToolTip": "Persistence\\Configurations\\EventConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T23:57:12.525Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EventMapper.cs",
+              "DocumentMoniker": "F:\\MeetUpNow\\InnoHackathon-ZhulegoFans-MeetUpNow\\EventService\\Contract\\Mapper\\EventMapper.cs",
+              "RelativeDocumentMoniker": "Contract\\Mapper\\EventMapper.cs",
+              "ToolTip": "F:\\MeetUpNow\\InnoHackathon-ZhulegoFans-MeetUpNow\\EventService\\Contract\\Mapper\\EventMapper.cs",
+              "RelativeToolTip": "Contract\\Mapper\\EventMapper.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwB4AAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T23:56:34.531Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EventDTO.cs",
+              "DocumentMoniker": "F:\\MeetUpNow\\InnoHackathon-ZhulegoFans-MeetUpNow\\EventService\\Contract\\EventDTO.cs",
+              "RelativeDocumentMoniker": "Contract\\EventDTO.cs",
+              "ToolTip": "F:\\MeetUpNow\\InnoHackathon-ZhulegoFans-MeetUpNow\\EventService\\Contract\\EventDTO.cs",
+              "RelativeToolTip": "Contract\\EventDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T23:56:20.031Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EventService.cs",
+              "DocumentMoniker": "F:\\MeetUpNow\\InnoHackathon-ZhulegoFans-MeetUpNow\\EventService\\Service\\EventService.cs",
+              "RelativeDocumentMoniker": "Service\\EventService.cs",
+              "ToolTip": "F:\\MeetUpNow\\InnoHackathon-ZhulegoFans-MeetUpNow\\EventService\\Service\\EventService.cs",
+              "RelativeToolTip": "Service\\EventService.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAkwEAAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T23:55:17.889Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Event.cs",
+              "DocumentMoniker": "F:\\MeetUpNow\\InnoHackathon-ZhulegoFans-MeetUpNow\\EventService\\Domain\\Entities\\Event.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\Event.cs",
+              "ToolTip": "F:\\MeetUpNow\\InnoHackathon-ZhulegoFans-MeetUpNow\\EventService\\Domain\\Entities\\Event.cs",
+              "RelativeToolTip": "Domain\\Entities\\Event.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T23:42:48.336Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\MeetUpNow\\InnoHackathon-ZhulegoFans-MeetUpNow\\EventService\\EventService\\Program.cs",
+              "RelativeDocumentMoniker": "EventService\\Program.cs",
+              "ToolTip": "F:\\MeetUpNow\\InnoHackathon-ZhulegoFans-MeetUpNow\\EventService\\EventService\\Program.cs",
+              "RelativeToolTip": "EventService\\Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACoAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T23:18:06.742Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "RepositoryDbContext.cs",
               "DocumentMoniker": "F:\\MeetUpNow\\InnoHackathon-ZhulegoFans-MeetUpNow\\EventService\\Persistence\\ContextDB\\RepositoryDbContext.cs",
               "RelativeDocumentMoniker": "Persistence\\ContextDB\\RepositoryDbContext.cs",
               "ToolTip": "F:\\MeetUpNow\\InnoHackathon-ZhulegoFans-MeetUpNow\\EventService\\Persistence\\ContextDB\\RepositoryDbContext.cs",
               "RelativeToolTip": "Persistence\\ContextDB\\RepositoryDbContext.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAA8wBkAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-28T21:06:01.126Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "EventService.sql ",
               "DocumentMoniker": "F:\\MeetUpNow\\InnoHackathon-ZhulegoFans-MeetUpNow\\EventService\\EventService\\EventService.sql",
               "RelativeDocumentMoniker": "EventService\\EventService.sql",
