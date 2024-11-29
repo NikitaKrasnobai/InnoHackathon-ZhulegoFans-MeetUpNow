@@ -1,4 +1,3 @@
-version: '3.9'
 services:
   event-service:
     build:
@@ -10,10 +9,10 @@ services:
     networks:
       - network
     environment:
-      - ASPNETCORE_ENVIRONMENT=Development
-      - ConnectionStrings__DefaultConnection=Server=mysql;Port=3306;Database=meetupnow;User Id=root;Password=admin;
+      RABBITMQ_HOST: rabbitMQ
     depends_on:
       - mysql
+      - rabbitMQ
     restart: always
 
   organization-service:
@@ -32,6 +31,20 @@ services:
       - mysql
     restart: always
 
+  email-service:
+    build: /email-service
+    container_name: email-service
+    environment:
+      RABBITMQ_HOST: rabbitMQ
+      RABBITMQ_PORT: 5672
+    ports:
+      - "8082:8082"
+    depends_on:
+      - rabbitMQ
+    networks:
+      - network
+    restart: always
+
   mysql:
     image: mysql:8.0
     container_name: mysql
@@ -45,6 +58,19 @@ services:
       - db-data:/var/lib/mysql
     networks:
       - network
+
+  rabbitMQ:
+    image: rabbitmq:3-management-alpine
+    container_name: rabbitMQ
+    environment:
+      RABBITMQ_DEFAULT_USER: guest
+      RABBITMQ_DEFAULT_PASS: guest
+    ports:
+      - "5672:5672"
+      - "15672:15672"
+    networks:
+      - network
+    restart: always
 
 volumes:
   db-data:

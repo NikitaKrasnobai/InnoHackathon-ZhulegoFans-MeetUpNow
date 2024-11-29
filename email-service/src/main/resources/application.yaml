@@ -1,0 +1,16 @@
+spring:
+  mail:
+    host: smtp.gmail.com
+    port: 587
+    username: snzhhnn@gmail.com
+    password: hbug egrr bbay njld
+    properties:
+      mail.debug: true
+      mail.transport.protocol: smtp
+      mail.smtp.auth: true
+      mail.smtp.starttls.enable: true
+  rabbitmq:
+    host: rabbitMQ
+    port: 5672
+server:
+  port: 8086
